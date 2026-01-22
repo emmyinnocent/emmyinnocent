@@ -1,6 +1,6 @@
 Hi, I’m Innocent a Frontend Developer in training
 
-🚀 I build small websites using *HTML and CSS
+🚀 I build small websites using HTML and CSS
 🎓 Currently mastering HTML and CSS 
 💼 Open to internships and frontend roles.
 
